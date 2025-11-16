@@ -1,4 +1,4 @@
-AI Agent Researcher
+*** AI Agent Researcher ***
 
 Research Paper Generator using Streamlit, FastAPI, LangGraph & Gemini 2.5 Pro
 
@@ -15,3 +15,4 @@ Agents - Custom multi-tool intelligent agents
 PDF Rendering- Tectonic
 PDF Reading - PyPDF2
 Search - arXiv API
+
